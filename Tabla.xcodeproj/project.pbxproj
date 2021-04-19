@@ -12,7 +12,7 @@
 		4599C53D1CD30F6000E9B7C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4599C53B1CD30F6000E9B7C1 /* Main.storyboard */; };
 		4599C53F1CD30F6000E9B7C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4599C53E1CD30F6000E9B7C1 /* Assets.xcassets */; };
 		4599C5421CD30F6000E9B7C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4599C5401CD30F6000E9B7C1 /* LaunchScreen.storyboard */; };
-		4BFF09F12626897700935543 /* TablaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFF09F02626897700935543 /* TablaVC.swift */; };
+		4BDABEB7262DD58400401BBD /* TablaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDABEB6262DD58400401BBD /* TablaVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		4599C53E1CD30F6000E9B7C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4599C5411CD30F6000E9B7C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4599C5431CD30F6000E9B7C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4BFF09F02626897700935543 /* TablaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaVC.swift; sourceTree = "<group>"; };
+		4BDABEB6262DD58400401BBD /* TablaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +59,10 @@
 				4599C5371CD30F6000E9B7C1 /* AppDelegate.swift */,
 				4599C5391CD30F6000E9B7C1 /* ViewController.swift */,
 				4599C53B1CD30F6000E9B7C1 /* Main.storyboard */,
+				4BDABEB6262DD58400401BBD /* TablaVC.swift */,
 				4599C53E1CD30F6000E9B7C1 /* Assets.xcassets */,
 				4599C5401CD30F6000E9B7C1 /* LaunchScreen.storyboard */,
 				4599C5431CD30F6000E9B7C1 /* Info.plist */,
-				4BFF09F02626897700935543 /* TablaVC.swift */,
 			);
 			path = Tabla;
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			files = (
 				4599C53A1CD30F6000E9B7C1 /* ViewController.swift in Sources */,
 				4599C5381CD30F6000E9B7C1 /* AppDelegate.swift in Sources */,
-				4BFF09F12626897700935543 /* TablaVC.swift in Sources */,
+				4BDABEB7262DD58400401BBD /* TablaVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
